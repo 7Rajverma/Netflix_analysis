@@ -1,5 +1,4 @@
 # Netflix_analysis
-# Movie Dataset Analysis
 
 ## Overview
 This project analyzes a dataset of movies to gain insights into trends such as genre popularity, vote distribution, and movie release patterns. The dataset was cleaned, processed, and visualized using Python libraries like Pandas, Seaborn, and Matplotlib.

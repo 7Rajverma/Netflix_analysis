@@ -42,7 +42,7 @@ The dataset contains the following columns:
 ## How to Run
 1. Clone the repository:
    ```sh
-   git clone <repo-url>
+   git clone <repo-url> https://github.com/7Rajverma/Netflix_analysis/tree/main
    cd <repo-folder>
    ```
 2. Install dependencies:
